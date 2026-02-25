@@ -1,0 +1,16 @@
+journey_name,feedback_type,feedback_text
+Mobile Banking,Pain Point,The login timeout is too short - I get logged out while reviewing transactions
+Mobile Banking,Insight,Users prefer biometric login over PIN entry
+Mobile Banking,Opportunity,Add quick balance check widget for home screen
+Account Setup,Pain Point,Document upload fails for files larger than 5MB
+Account Setup,Pain Point,Verification email takes too long to arrive
+Account Setup,Opportunity,Allow users to save progress and resume later
+Account Setup,Insight,Most users abandon during ID verification step
+Payment Processing,Pain Point,Cannot save favorite payees for quick access
+Payment Processing,Opportunity,Add scheduled payment reminders
+Credit Card Apply,Pain Point,Application form is too long and repetitive
+Credit Card Apply,Pain Point,Unclear what documents are required upfront
+Credit Card Apply,Insight,Users compare rates on external sites before applying
+Credit Card Apply,Opportunity,Add pre-qualification tool to show approval odds
+Savings Goals,Insight,Users want to set multiple goals simultaneously
+Savings Goals,Opportunity,Add visual progress indicators for each goal
